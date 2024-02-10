@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="States" Class="US_States_tableDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\States.mdf;Integrated Security=True" SettingsObjectName="US_States.Properties.Settings" SettingsPropertyName="StatesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[US States]" Member="US_States">
+    <Type Name="US_State">
+      <Column Name="[State Number]" Member="State_Number" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="[State Name]" Member="State_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Flag Description]" Member="Flag_Description" Type="System.String" DbType="VarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="[State Flower]" Member="State_Flower" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[State Bird]" Member="State_Bird" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[State Colors]" Member="State_Colors" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Three Largest Cities]" Member="Three_Largest_Cities" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[State Capitol]" Member="State_Capitol" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="[Median Income]" Member="Median_Income" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Percentage of Computer Jobs]" Member="Percentage_of_Computer_Jobs" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Population" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
