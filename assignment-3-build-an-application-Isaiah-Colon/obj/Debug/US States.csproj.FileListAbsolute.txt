@@ -1,0 +1,16 @@
+C:\Users\icolo\source\repos\US States\bin\Debug\US_States1.mdb
+C:\Users\icolo\source\repos\US States\bin\Debug\US States.exe.config
+C:\Users\icolo\source\repos\US States\bin\Debug\US States.exe
+C:\Users\icolo\source\repos\US States\bin\Debug\US States.pdb
+C:\Users\icolo\source\repos\US States\obj\Debug\US States.csproj.AssemblyReference.cache
+C:\Users\icolo\source\repos\US States\obj\Debug\US_States.Form1.resources
+C:\Users\icolo\source\repos\US States\obj\Debug\US_States.Properties.Resources.resources
+C:\Users\icolo\source\repos\US States\obj\Debug\US States.csproj.GenerateResource.cache
+C:\Users\icolo\source\repos\US States\obj\Debug\US States.csproj.CoreCompileInputs.cache
+C:\Users\icolo\source\repos\US States\obj\Debug\US States.exe
+C:\Users\icolo\source\repos\US States\obj\Debug\US States.pdb
+C:\Users\icolo\source\repos\US States\bin\Debug\States.mdf
+C:\Users\icolo\source\repos\US States\bin\Debug\States_log.ldf
+C:\Users\icolo\source\repos\US States\bin\Debug\US_States11.mdb
+C:\Users\icolo\source\repos\US States\bin\Debug\US_States2002.mdb
+C:\Users\icolo\source\repos\US States\obj\Debug\US_States.Form2.resources
