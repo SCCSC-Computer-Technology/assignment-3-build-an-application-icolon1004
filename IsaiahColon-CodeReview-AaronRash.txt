@@ -1,0 +1,13 @@
+Isaiah Colon code review by Aaron Rash
+
+I see you seperated numeric searches from text searches. So did I! But there are some fixable issues with the way you have it set up. 
+
+Since you have two different groupboxes, but only one search button, you need to distinguish which groupbox is being searched.
+As it is now, your search button calls 2 methods (FilterData & FilterNumericData). So if you have values in both groupboxes, it will perform the FilterData method first, and then immediately replace the resutls with the FilterNumericData results.
+	There are a couple ways to fix this, but the method I chose was to have a search button in each group. You could also add a way to pick a groupbox before calling the associated method, or combine the goups/methods perhaps, whatever you prefer.
+
+Also, adding a 'clear' or 'reset' button would go a long way
+
+There are a dozen duplicate data sets. I totally get it, I did the same exact thing when I was learning how to use these. Just be sure to get of redundant data next time around.
+
+Your code is very organized and well commented, which I really like. Big thumbs up from me.
