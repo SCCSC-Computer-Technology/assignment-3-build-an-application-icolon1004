@@ -1,0 +1,3 @@
+The code ran well.
+The code was well organized and I could understand what was going on.
+I like how you used SQL for data handling instead of access or any other data handling source, it looks very well put together, I used access and to be honest, SQL looks a lot more efficent and easy to implement into the program, as for actually setting up sql and putting data into it, I'm still not very good at that which is why I used access. I'll definitely familiarize myself with SQL now. 
